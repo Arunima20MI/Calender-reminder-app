@@ -1,4 +1,4 @@
-PROJECT OVERVIEW:
+## PROJECT OVERVIEW:
 
 # 🗓️ Calendar Reminder App
 A simple and user-friendly desktop application built with **Python**, **Tkinter**, **tkcalendar**, and **SQLite** that allows users to add and view daily reminders through an interactive calendar interface.
@@ -18,7 +18,7 @@ A simple and user-friendly desktop application built with **Python**, **Tkinter*
 - tkcalendar (calendar widget)
 - SQLite (local database)
 
-INSTALLATION AND SETUP:
+## INSTALLATION AND SETUP:
 
 # 1. Clone the repository
 
